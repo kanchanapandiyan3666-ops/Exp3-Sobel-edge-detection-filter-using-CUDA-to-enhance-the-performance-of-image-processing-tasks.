@@ -19,6 +19,7 @@ A sample image for testing.
 
 ## PROCEDURE:
 Tasks: 
+
 a. Modify the Kernel:
 
 Update the kernel to handle color images by converting them to grayscale before applying the Sobel filter.
